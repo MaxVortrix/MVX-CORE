@@ -1,0 +1,9 @@
+name: MVX-CORE
+version: '${project.version}'
+main: com.maxvortrix.mvxcore.MvxCore
+api-version: 1.19
+authors: [ MaxVortrix ]
+description: This is MVX's core plugin that other MVX plugins depend on.
+website: maxvortrix.com
+command:
+  mvx:
